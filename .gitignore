@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# VS Code config
+.vscode/
+
+# Playwright test artifacts
+test-results/
+playwright-report/
+
+# Coverage reports
+coverage/
+
+# OS files
+.DS_Store
+
+# Screenshots folders (if you don’t want to commit them)
+screenshots/
+
